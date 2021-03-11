@@ -1,0 +1,39 @@
+{
+  "info": {
+    "url_png_icon_64x64": "",
+    "url_png_logo": "",
+    "location": "Cape Town, South Africa",
+    "social": {
+      "twitter_handle": "neatstaking",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": ""
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "Cardano Evangelist | Linux Systems Administrator and Storage Specialist (22 years)",
+      "server": "AWS cloud servers hosted in the UK",
+      "company": ""
+    }
+  },
+  "telegram-admin-handle": [
+    ""
+  ],
+  "my-pool-ids": [
+    "9c84327ad8de82f858801d2f699e55a5714dca44cf589718c4588541",
+    ""
+  ],
+  "when-satured-then-recommend": [
+    "",
+    ""
+  ]
+}
