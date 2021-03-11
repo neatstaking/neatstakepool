@@ -2,5 +2,6 @@
 "name": "Neat Stakepool",
 "description": "A professionally managed Cardano Stake Pool built on AWS cloud infrastructure",
 "ticker": "NEAT",
-"homepage": "https://www.neatstaking.com"
+"homepage": "https://www.neatstaking.com",
+"extended":"https://git.io/Jqn3m"
 }
